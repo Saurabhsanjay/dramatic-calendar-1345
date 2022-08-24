@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.dropbtn {
+  background-color: #2b8afc;
+  color: white;
+  padding: 7px;
+  font-size: 13px;
+  border: none;
+  margin-right: 3rem;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* .dropdown:hover .dropbtn {background-color: #3e8e41;} */
+.drawer {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #2b8afc;
+  margin-right: 1rem;
+}
+
+.carsol {
+  width: 90%;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  /* border: 1px solid; */
+  width: 90%;
+  margin: auto;
+  /* height: 500px; */
+}
+
+.righttop {
+
+  /* height: 200px; */
+  /* border: 1px solid; */
+}
+
+.one {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border: 1px solid rgb(158, 158, 158);
+  border-radius: 5px;
+  /* height: 50px; */
+}
+
+.two {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border: 1px solid gray;
+  border-radius: 5px;
+  /* height: 100px; */
+}
+
+.one img {
+  width: 100%;
+}
+
+.two img {
+  width: 100%;
+}
+
+.one span {
+  font-size: 14px;
+  font-weight: bolder;
+
+}
+
+.one span {
+  margin-bottom: -2%;
+  ;
+}
+
+del {
+  font-size: 12px;
+}
+
+.sp {
+  background-color: #f1403c;
+  border-radius: 10px;
+  color: white;
+  padding: 3px;
+}
+
+.deals {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.pricee {
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.two>div>a {
+  text-decoration: none;
+  color: black;
+  font-size: 13px;
+}
