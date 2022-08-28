@@ -5,6 +5,7 @@ import React from 'react'
 import Drawer from './Drawer';
 import Carouselone from './components/Carouselone';
 import BrandProducts from './components/BrandProducts';
+import Footer from './components/Footer';
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
     </div>
     <Carouselone/>
     <BrandProducts/>
+    <Footer/>
     </>
   )
 }

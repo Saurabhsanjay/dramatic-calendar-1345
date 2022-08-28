@@ -41,31 +41,31 @@ const data = [
         ]
     },
     {
-        brandimg: "https://img.gkbcdn.com/bb/jimmy-20200910094916929._p1_.jpg",
+        brandimg: "https://img.gkbcdn.com/bb/roborock-20211111211035580._p1_.jpg",
         ProductsData: [
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2021-03-01/roborock-s7-robot-vacuum-cleaner-2500pa-powerful-suction-1614568841892._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
                 del: "₹16446.28"
             },
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2022-07-22/roborock-q7-max--robot-vacuum-cleaner-with-auto-empty-dock-pure-3dd70b-1658457753623._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
                 del: "₹16446.28"
             },
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2021-11-11/Roborock-Dyad-Wet-and-Dry-Vacuum-Clenaer-13Kpa-5000mAh-35Mins-Run-Time-478096-1._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
                 del: "₹16446.28"
             },
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2022-06-25/Roborock-S7-Pro-Ultra-Robot-Vacuum-Cleaner-White-506889-2._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
@@ -74,31 +74,31 @@ const data = [
         ]
     },
     {
-        brandimg: "https://img.gkbcdn.com/bb/jimmy-20200910094916929._p1_.jpg",
+        brandimg: "https://img.gkbcdn.com/bb/sculpfun-20220617114417913._p1_.jpg",
         ProductsData: [
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2021-12-22/SCULPFUN-S9-Laser-Engraver-481991-0._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
                 del: "₹16446.28"
             },
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2022-05-30/SCULPFUN-30L-Min-Air-Pump-Compressor-EU-Plug-501435-0._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
                 del: "₹16446.28"
             },
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2022-05-12/Sculpfun-S10-Laser-Engraver-500429-0._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
                 del: "₹16446.28"
             },
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2021-12-17/Sculpfun-S6-Pro-Laser-Engraver-481732-0._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
@@ -107,31 +107,31 @@ const data = [
         ]
     },
     {
-        brandimg: "https://img.gkbcdn.com/bb/jimmy-20200910094916929._p1_.jpg",
+        brandimg: "https://img.gkbcdn.com/bb/kugookirin-20220727164736534._p1_.jpg",
         ProductsData: [
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2022-05-27/KUGOOKIRIN-G2-PRO-Adventurers-Dream-Electric-Scooter-501357-3._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
                 del: "₹16446.28"
             },
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2022-04-16/tronsmart-bang-60w-outdoor-party-speaker-b5a77f-1650095218850._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
                 del: "₹16446.28"
             },
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2019-01-31/tronsmart-element-force-portable-bluetooth-speaker-1574132217684._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
                 del: "₹16446.28"
             },
             {
-                image: "https://img.gkbcdn.com/p/2022-06-21/Jimmy-BX7-Pro-Handheld-Anti-mite-Vacuum-Cleaner-506442-0._w280_p1_.jpg",
+                image: "https://img.gkbcdn.com/p/2022-08-08/tronsmart-onyx-ace-pro-bluetooth-5-2-tws-earphones-white-fdf9db-1659949918199._w280_p1_.jpg",
                 offprice: "27% OFF",
                 title: "JIMMY BX7 Pro Anti-Mite Vacuum Cleaner 700W",
                 price: "₹12005.56",
